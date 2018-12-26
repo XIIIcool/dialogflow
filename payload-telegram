@@ -1,0 +1,10 @@
+{"payload":{
+  "telegram":{
+    "expectUserResponse":false,
+    "text":"\u041f\u0440\u0438\u0432\u0435\u0442 \u0438\u0437 Telegram \u0412\u043e\u0442 \u041a\u043d\u043e\u043f\u043a\u0438!",
+    "reply_markup":{
+    "inline_keyboard":[
+      [{"text":"Red","callback_data":"Red"}],
+      [{"text":"Red","callback_data":"Red"},{"text":"Red","callback_data":"Red"},{"text":"Red","callback_data":"Red"}]
+      ]}}
+},"outputContexts":[]}
